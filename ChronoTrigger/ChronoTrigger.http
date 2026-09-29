@@ -1,0 +1,6 @@
+@ChronoTrigger_HostAddress = http://localhost:5197
+
+GET {{ChronoTrigger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
